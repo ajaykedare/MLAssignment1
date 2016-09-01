@@ -13,7 +13,6 @@ trainy=train_data.ix[:,60]
 
 testx=validate_data.ix[:,1:59]
 
-print df_test.describe()
 #Linear Regression
 #-----------------
 # create a linear regression model
